@@ -303,11 +303,11 @@ const SpeedCalculator = () => {
 					</div>
 					<div>
 						<h1 className="text-2xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-indigo-600 to-purple-600">
-							Aircraft Angular Speed Calculator
+							Do planes fly faster at the poles? Let's find out.
 						</h1>
 						<p className="text-gray-600">
-							Explore how latitude affects apparent motion while maintaining
-							constant linear speed.
+							Type in the name of your city and explore how latitude affects
+							apparent motion while maintaining constant linear speed.
 						</p>
 					</div>
 				</div>

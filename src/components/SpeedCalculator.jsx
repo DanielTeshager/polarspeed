@@ -305,9 +305,9 @@ const SpeedCalculator = () => {
 						<h1 className="text-2xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-indigo-600 to-purple-600">
 							Aircraft Angular Speed Calculator
 						</h1>
-						<p className="text-gray-600 text-sm mt-1">
+						<p className="text-gray-600">
 							Explore how latitude affects apparent motion while maintaining
-							constant linear speed
+							constant linear speed.
 						</p>
 					</div>
 				</div>
